@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184ee968-e13b-4cc7-9859-1243d883ed1f" name="Changes" comment="saddsaaasd">
-      <change beforePath="$PROJECT_DIR$/FeatureC.java" beforeDir="false" afterPath="$PROJECT_DIR$/FeatureC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/featureMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Documents/wrk&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\wrk" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
