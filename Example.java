@@ -1,1 +1,7 @@
-return "Diego Marquez";
+public class Example {
+    public static void main(String[] args) {
+        System.out.println("hola");
+        //return "Diego Marquez";
+    }
+}
+
