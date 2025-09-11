@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184ee968-e13b-4cc7-9859-1243d883ed1f" name="Changes" comment="saddsaaasd">
-      <change afterPath="$PROJECT_DIR$/FeatureD.java" afterDir="false" />
+    <list default="true" id="184ee968-e13b-4cc7-9859-1243d883ed1f" name="Changes" comment="2asd">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb43e8f87cf91b68160160fa78456c53d3c3e0a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3d06216475c8feb86147d65e2f1d610f5750587" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/b/bb43e8f87cf91b68160160fa78456c53d3c3e0a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c3d06216475c8feb86147d65e2f1d610f5750587" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuevoPracticando.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9084a5020f094430ab167cab1ee95266cd3c9a5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9084a5020f094430ab167cab1ee95266cd3c9a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="featureB" />
+        <entry key="$PROJECT_DIR$" value="featureA" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +76,70 @@
       <option name="project" value="LOCAL" />
       <updated>1757450539210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adsasd">
+      <created>1757538339345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538339345</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adsasdasdasd">
+      <created>1757538381120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538381120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adsasd">
+      <created>1757538563024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538563024</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adsasd">
+      <created>1757538573364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538573364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adsasd">
+      <created>1757538581464</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538581464</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adsasd">
+      <created>1757538587334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538587334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1asd">
+      <created>1757538626060</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538626060</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2asd">
+      <created>1757538635826</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538635826</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2asd">
+      <created>1757538645594</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757538645594</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +183,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="saddsa" />
     <MESSAGE value="saddsaaasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="saddsaaasd" />
+    <MESSAGE value="adsasdasdasd" />
+    <MESSAGE value="adsasd" />
+    <MESSAGE value="1asd" />
+    <MESSAGE value="2asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="2asd" />
   </component>
 </project>
